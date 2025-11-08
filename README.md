@@ -5,3 +5,4 @@
 ### Genes de hsa-miR-144-3p: 1048
 ### Genes de hsa-miR-758-3p: 271 
 ### Genes de hsa-miR-106b-5p: 1385
+## Genes en comunes
