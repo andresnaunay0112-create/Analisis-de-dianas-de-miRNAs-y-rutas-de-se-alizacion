@@ -6,3 +6,8 @@
 ### Genes de hsa-miR-758-3p: 271 
 ### Genes de hsa-miR-106b-5p: 1385
 ## Genes en comunes
+### KPNA3
+### SCN1A
+### TSC22D2
+### ABCA1
+### SNTB2
